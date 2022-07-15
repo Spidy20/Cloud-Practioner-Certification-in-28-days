@@ -16,7 +16,7 @@ Check on the [Credly](https://www.credly.com/users/kushal-bhavsar.e4119c04/badge
 **Note: I can guide you only, preparation is your responsibility. Efforts day can be vary based on your preparation**
 
 ## Assumption
-- You should have tech background (If not still, you can follow this, just you need to spend more time on the preparation). No practical technical knowledge is required.
+- You should have tech background (If not still, you can follow this, just you need to spend more time on the preparation). No practical technical knowledge is required to clear this exam.
 - You are college student or doing job, by spending 1.5 to 2 hours extra on study can give you the certification in 28 days.
 
 **Note: By time, AWS Exam rules and policies may be change, so please refer the official documents.**
@@ -34,7 +34,7 @@ Check on the [Credly](https://www.credly.com/users/kushal-bhavsar.e4119c04/badge
 
 ## [Schedule an Exam](https://aws.amazon.com/certification/certified-cloud-practitioner/)
 
-# Let's Break-out learning in 3 weeks
+# Let's Break-out learning in 4 weeks
 **Note: Here I am going to mention free & Paid study material also, paid doesn't means I am getting sponsorship of it, it means it's good to follow and worth to spend money.**
 
 ------------------------------------------------------------------------------------
@@ -55,6 +55,49 @@ Now, I hope that you are aware with all the basic of AWS Services knowledge. Now
 ## 3rd Week (Attemp Practice Quizes)
 Now I can assume that you are very cleared with the AWS topics. Still, I bet that if you are going to the exam without any practice, you will fail for sure. So, now you need to have the lots of practice of real-time quiz. So, I am mentioning some paid and free quiz, in that you can give the quiz and test your AWS Knowledge.
 
+- 400 Free MCQs from [Examtopics](https://www.examtopics.com/exams/amazon/aws-certified-cloud-practitioner/) [Free]
+- 3 practice quiz from [AWSBoy](https://www.awsboy.com/aws-practice-exams/practitioner/)
+- 300 MCQs [Free] [Here](https://dhxjdsa3qp0f7.cloudfront.net/clfc01.html)
+- 6 Practice Quiz from Udemy [Paid] - The reason of purchasing this exam set is this quizes are actual harder than the real exam, if you are getting more than 85% in this quiz then you are good to go. This quizes are designed accordingly exam patterns with proper answers with refenrence links and explanation. I would recommend to practice 2 quizes daily from this Quiz set. [**Note: I also taken this course in 495 INR from Udemy.**]
+
+  **Note: Please take care of answers of MCQs that you are preferring from any online source, because answer can be wrong or AWS service may be updated.**
+
 ------------------------------------------------------------------------------------
 
 ## 4th Week (Read AWS Whitepaper, revise all the services & Attempt Practice Quizes)
+In this week, you need to revise all the material, MCQs and Quizes that you have read or purchased from udemy.
+- AWS Whitepape [Overview of Amazon Web Services](https://d0.awsstatic.com/whitepapers/aws-overview.pdf)
+- [AWS Certified Cloud Practitioner Official Practice Question](https://explore.skillbuilder.aws/learn/course/12483/aws-certified-cloud-practitioner-official-practice-question-set-clf-c01-english)
+
+------------------------------------------------------------------------------------
+
+## If you are confident enouth, then you can schedule your exam. 
+
+## My MCQ Exam Experience
+- In my exam, in starting there was little bit tough questions are there, but after that it was very easy questions. If you are aware with the services and use-case you can easlily guess the answer.
+- There were lots of scenario based questions.
+- Difficult questions are more focused on the AWS Well Architected Framework. (TBH, I found it difficult because, I haven't gone through deep into that topic)
+- There were some questions from the new services, so referring AWS Whitepaper is very benefical. Just be prepared one liner use of every aws services that is mentioned in the AWS Whitepaper.
+
+## My WFH Exam Experience of Pearson Vue
+- I scheduled exam at midnight (4:AM), because of silent atmosphere. 
+- Go to Pearson Vue, and run the System check before 1 day of exam. You laptop Camera, MIC, Speaker should be working fine. 
+- No watch, pen, paper, headphones, books allowed in exam.
+- Proctor will check your room before starting the exam.
+- Speaking question is not allowed.
+- No 2nd person should be in your room. 
+- Required Silent atmoshphere of your room. 
+
+Folks, I am done from my side, now it's your turn to clear the exam. 
+
+# Best of Luck for your Exam
+
+## If you found this path of preparation is useful and you got cleared exam with the help of this. Please share this path with others and you can mentioned me in the LinkedIn. 
+
+
+## Just follow☝️ me and Star⭐ my repository 
+
+## [Buy me a Coffee☕](https://www.buymeacoffee.com/spidy20)
+## [Donate me on PayPal](https://www.paypal.me/spidy1820)
+## Donate me via UPI - machinelearninghubai@okhdfcbank
+
