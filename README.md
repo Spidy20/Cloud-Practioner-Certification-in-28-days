@@ -5,11 +5,12 @@
 </p>
 <br/>
 
-**In this repository, I have shared the way of getting the AWS CCP Certified in 28 days with the good resources links & references.**
-
-**Note: By time, AWS Exam rules and policies may be change, so please refer the official documents.**
+**In this repository, I have shared the way of getting the AWS CCP Certified in 28 days with the good resources links & references. I cleared my AWS CCP exam on the 9th July 2022. I am sharing my own way of clearing CCP Certification. I have technical background, I am working as a ML Engineer. I have done this certification by just spending 1.5 to 2 hours by daily for 20 days.** 
 
 ## My Cloud Practitioner Certification
+<img src="https://github.com/Spidy20/Cloud-Practioner-Certification-in-28-days/blob/main/Kushal_CCP_Certification.PNG">
+
+Check on the [Credly](https://www.credly.com/users/kushal-bhavsar.e4119c04/badges)
 
 ## By following this way, you can achieve your CCP Certification in 28 day. 
 **Note: I can guide you only, preparation is your responsibility. Efforts day can be vary based on your preparation**
@@ -18,7 +19,7 @@
 - You should have tech background (If not still, you can follow this, just you need to spend more time on the preparation). No practical technical knowledge is required.
 - You are college student or doing job, by spending 1.5 to 2 hours extra on study can give you the certification in 28 days.
 
-
+**Note: By time, AWS Exam rules and policies may be change, so please refer the official documents.**
 ## Exam Structure
 - 65 MCQs
 - No negetaive marking
