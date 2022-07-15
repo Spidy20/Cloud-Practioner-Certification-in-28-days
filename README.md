@@ -1,7 +1,7 @@
 # Cloud-Practioner-Certification-in-28-days
 <br/>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/aws.png">
+  <img src="https://github.com/Spidy20/Cloud-Practioner-Certification-in-28-days/blob/main/AWS_CCP_Logo.png">
 </p>
 <br/>
 
