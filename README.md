@@ -4,7 +4,8 @@
   <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/aws.png">
 </p>
 <br/>
-- In this repository, I have shared the way of getting the AWS CCP Certified in 28 days with the good resources links & references.
+
+**In this repository, I have shared the way of getting the AWS CCP Certified in 28 days with the good resources links & references.**
 
 **Note: By time, AWS Exam rules and policies may be change, so please refer the official documents.**
 
@@ -35,10 +36,23 @@
 # Let's Break-out learning in 3 weeks
 **Note: Here I am going to mention free & Paid study material also, paid doesn' means I am getting sponsorship of it, it means it's good to follow and worth to spend money.**
 
-## 1st Week (Know About AWS)
+------------------------------------------------------------------------------------
 
-## 2nd Week (Know about AWS Services)
+## 1st Week (Know About AWS)
+- [AWS Cloud Practitioner Essentials](https://explore.skillbuilder.aws/learn/course/134/play/31418/aws-cloud-practitioner-essentials-all-modules) [Free] - This Course is containing every topic that is required for exam. It is official from AWS.
+
+------------------------------------------------------------------------------------
+
+## 2nd Week (Know about AWS Services with Hands-On) 
+Now, I hope that you are aware with all the basic of AWS Services knowledge. Now in this week we are more focused into getting the little bit hands on knowledge of the AWS Services like S3, EC2, ASG, ELB, Lambda etc. For that you need to go and focus on the some courses. Let's see it. 
+- [AWS Certified Cloud Practitioner Certification Course from freeCodeCamp.org](https://www.youtube.com/watch?v=SOTamWNgDKc) [Free] - This is free course which shows hands on knowledge of the all required things.
+### OR 
+- [[NEW] Ultimate AWS Certified Cloud Practitioner - 2022](https://www.udemy.com/share/103a093@HIWn0tBf7lmN2tJkTER_hrMhfJXUzdsaJLtVxUYq0Gol2LzXgjmBU-pe-4J3W9mf/) - [Paid] - This is paid course from the udemy, which is very good according to me, it covers each and every topic with practical implementation, 1 practice quiz, Practical material, and material slides. [**Note: I also taken this course in 475 INR from Udemy.**]
+
+------------------------------------------------------------------------------------
 
 ## 3rd Week (Attemp Practice Quizes)
+
+------------------------------------------------------------------------------------
 
 ## 4th Week (Read AWS Whitepaper, revise all the services & Attempt Practice Quizes)
