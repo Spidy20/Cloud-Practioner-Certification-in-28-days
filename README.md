@@ -88,9 +88,9 @@ In this week, you need to revise all the material, MCQs and Quizes that you have
 - No 2nd person should be in your room. 
 - Required Silent atmoshphere of your room. 
 
-Folks, I am done from my side, now it's your turn to clear the exam. 
+# Folks, I am done from my side, now it's your turn to clear the exam. 
 
-# Best of Luck for your Exam
+# Best of Luck 👍 for your Exam
 
 ## If you found this path of preparation is useful and you got cleared exam with the help of this. Please share this path with others and you can mentioned me in the LinkedIn. 
 
