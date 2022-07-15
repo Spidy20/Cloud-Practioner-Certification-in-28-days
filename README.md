@@ -35,7 +35,7 @@ Check on the [Credly](https://www.credly.com/users/kushal-bhavsar.e4119c04/badge
 ## [Schedule an Exam](https://aws.amazon.com/certification/certified-cloud-practitioner/)
 
 # Let's Break-out learning in 3 weeks
-**Note: Here I am going to mention free & Paid study material also, paid doesn' means I am getting sponsorship of it, it means it's good to follow and worth to spend money.**
+**Note: Here I am going to mention free & Paid study material also, paid doesn't means I am getting sponsorship of it, it means it's good to follow and worth to spend money.**
 
 ------------------------------------------------------------------------------------
 
