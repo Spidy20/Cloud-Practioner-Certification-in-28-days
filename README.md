@@ -58,7 +58,7 @@ Now I can assume that you are very cleared with the AWS topics. Still, I bet tha
 - 400 Free MCQs from [Examtopics](https://www.examtopics.com/exams/amazon/aws-certified-cloud-practitioner/) [Free]
 - 3 practice quiz from [Free] [AWSBoy](https://www.awsboy.com/aws-practice-exams/practitioner/)
 - 300 MCQs [Free] [Here](https://dhxjdsa3qp0f7.cloudfront.net/clfc01.html)
-- 6 Practice Quiz from Udemy [Paid] - The reason of purchasing this exam set is this quizes are actual harder than the real exam, if you are getting more than 85% in this quiz then you are good to go. This quizes are designed accordingly exam patterns with proper answers with refenrence links and explanation. I would recommend to practice 2 quizes daily from this Quiz set. [**Note: I also taken this course in 495 INR from Udemy.**]
+- 6 Practice Quiz from [Udemy](https://www.udemy.com/course/practice-exams-aws-certified-cloud-practitioner/) [Paid] - The reason of purchasing this exam set is this quizes are actual harder than the real exam, if you are getting more than 85% in this quiz then you are good to go. This quizes are designed accordingly exam patterns with proper answers with refenrence links and explanation. I would recommend to practice 2 quizes daily from this Quiz set. [**Note: I also taken this course in 495 INR from Udemy.**]
 
   **Note: Please take care of answers of MCQs that you are preferring from any online source, because answer can be wrong or AWS service may be updated.**
 
